@@ -9,3 +9,7 @@ amupdatedl2.microsoft.com
 amupdatedl3.microsoft.com
 amupdatedl4.microsoft.com
 amupdatedl5.microsoft.com
+*.gvt1.com
+dl.google.com
+officecdn.microsoft.com.edgesuite.net
+officecdn.microsoft.com
